@@ -1,2 +1,24 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #EAC926;
+}
 
 
+.cuerpos {
+    font-size: 12px;
+}
+
+.titulares {
+    font-size: 18px;
+}
+
+.precios .descuentos {
+    font-size: 16px;
+}
+
+#menuhamburguesa {
+    background-color: #1259c3;
+    font-size: medium;
+    padding: 2%;
+    text-align: center;
+}
