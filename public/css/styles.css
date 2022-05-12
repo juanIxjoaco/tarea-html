@@ -21,4 +21,14 @@ body {
     font-size: medium;
     padding: 2%;
     text-align: center;
+    border-radius: 4px;
 }
+
+.footer h4 {
+    text-align: center;
+}
+
+.textopie {
+    text-align: center;
+}
+
